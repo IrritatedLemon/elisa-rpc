@@ -1,0 +1,12 @@
+{
+    "id": 0,
+    "paused_image_key": "",
+    "playing_image_key": "",
+    "large_image_key": "",
+    "small_image_text": "%playing%",
+    "large_image_text": "",
+    "swap_small_images": false,
+    "clear_on_pause": false,
+    "details": "%track",
+    "state": "%artist%"
+}
