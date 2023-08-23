@@ -1,6 +1,7 @@
 # elisa-rpc
 ### Requirements
 - [JSON for Modern C++](https://github.com/nlohmann/json)
+- [Gio - 2.0](https://docs.gtk.org/gio/)
 - [Discord GameSDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide#step-1-get-the-thing)
 
 <small>Version 2.5.6 of the Discord GameSDK is bundled in this repository.</small>
